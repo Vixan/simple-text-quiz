@@ -82,7 +82,7 @@ const App = () => {
   };
 
   return (
-    <main className="flex flex-col md:flex-row md:h-screen justify-center items-start bg-base-200 px-4 py-16 lg:px-32 gap-8">
+    <main className="flex flex-col md:flex-row md:h-screen justify-center items-center bg-base-200 px-4 py-16 lg:px-32 gap-8">
       <div className="card w-full h-[36rem] md:w-[64rem] bg-base-100 shadow-xl">
         <div className="card-body">
           <h2 className="card-title font-bold text-2xl mb-2">Quiz time!</h2>
