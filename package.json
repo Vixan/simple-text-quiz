@@ -11,7 +11,7 @@
     "format": "npx prettier --write .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "clsx": "^1.2.1",
